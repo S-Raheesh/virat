@@ -1,0 +1,9 @@
+body{
+    background-image:url("CricketGround.png");
+    color: rgb(242, 255, 0);
+}
+#webcam{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
